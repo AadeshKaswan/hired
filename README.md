@@ -113,10 +113,8 @@ cd job
 
 ---
 
-## 🔒 Security & Privacy Practices
+## 🔒 Security & Privacy In Roles
 
-- **Never commit `.env` files:** These files contain live API keys and JWT secrets. The repository's root `.gitignore` is pre-configured to strictly ignore them.
-- **Candidate Privacy (PII):** Candidate resumes uploaded during applications or analysis are stored locally in `server/uploads/resumes/`. These directories and all uploaded documents (`*.pdf`, `*.docx`, `*.doc`) are excluded from Git to prevent personal data leaks.
 - **Role-Based Access Control:** Registration role selection is restricted to `'jobseeker'` and `'employer'`. Administrative accounts cannot be created via the public registration endpoint.
 
 ---
