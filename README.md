@@ -1,4 +1,5 @@
-# 🚀 AI Job Portal & Resume Analyzer
+# 🚀 Hired.
+# AI Job Portal & Resume Analyzer
 
 A modern, full-stack recruitment platform and AI-powered resume analysis engine built with **React 19**, **Node.js/Express 5**, **MongoDB**, and **Google Gemini AI**.
 
