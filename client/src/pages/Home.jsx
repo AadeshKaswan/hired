@@ -396,16 +396,9 @@ const Home = () => {
               © {new Date().getFullYear()} Hired. Built by <span className="font-medium text-indigo-500">Aadesh Kaswan</span>. All rights reserved.
             </p>
             <div className="mt-4 flex gap-6 md:mt-0 relative z-50">
+
   <a 
-    href="https://twitter.com/yourusername" 
-    target="_blank" 
-    rel="noopener noreferrer"
-    className="text-[15px] font-medium text-neutral-400 transition-colors hover:text-neutral-900 dark:hover:text-white"
-  >
-    Twitter
-  </a>
-  <a 
-    href="https://linkedin.com/in/yourusername" 
+    href="https://linkedin.com/in/aadeshkaswan" 
     target="_blank" 
     rel="noopener noreferrer"
     className="text-[15px] font-medium text-neutral-400 transition-colors hover:text-neutral-900 dark:hover:text-white"
@@ -413,7 +406,7 @@ const Home = () => {
     LinkedIn
   </a>
   <a 
-    href="https://github.com/yourusername" 
+    href="https://github.com/AadeshKaswan" 
     target="_blank" 
     rel="noopener noreferrer"
     className="text-[15px] font-medium text-neutral-400 transition-colors hover:text-neutral-900 dark:hover:text-white"
